@@ -22,3 +22,10 @@ A simple RESTful API built using **Node.js, Express, and MongoDB** for managing 
 ---
 
 ## 📁 Project Structure
+student-management-api/
+│── models/
+│── routes/
+│── controllers/
+│── config/
+│── server.js
+│── package.json
